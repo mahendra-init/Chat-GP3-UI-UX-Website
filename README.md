@@ -5,17 +5,17 @@
 
 
 ### **Project Description:** 
-Our modern UI/UX design website is designed to provide users with a seamless and intuitive experience while exploring the latest advancements in technology. With a focus on modern design principles and user-centered approach, we have created a visually stunning website that is easy to navigate and packed with useful information.
+This modern UI/UX design website is designed to provide users with a seamless and intuitive experience while exploring the latest advancements in technology. With a focus on modern design principles and user-centered approach, we have created a visually stunning website that is easy to navigate and packed with useful information.
 
 The website is designed to be responsive and adaptable, ensuring a smooth user experience across all devices and screen sizes. The layout is clean and minimalist, with a focus on typography and imagery. The website's navigation is intuitive and easy to use, making it simple for users to find the information they need. The website is packed with engaging and informative content, including articles, videos, and interactive elements.
 
 ### **Technologies used:**
-Our modern UI/UX design website is built using a combination of cutting-edge technologies, including HTML, CSS, and React JS. We have utilized the power of React JS to create a dynamic and interactive user interface that is both responsive and easy to navigate.
+This modern UI/UX design website is built using a combination of cutting-edge technologies, including HTML, CSS, and React JS. We have utilized the power of React JS to create a dynamic and interactive user interface that is both responsive and easy to navigate.
 
 To enhance the visual appeal of the website, we have used a range of gradient styles created using [angrytools](https://angrytools.com/gradient/). These gradient styles add depth and dimension to the website, creating a visually stunning experience for users. Additionally, we have used [animista](https://animista.net/) to add smooth and engaging animations throughout the website, making it more interactive and dynamic.
 
 ### **Design Process:**
-Our design process for this modern UI/UX design website was simple and based on the BEM (Block-Element-Modifier) model. This approach allows for a clear separation of concerns between the different components of the website and makes it easy to maintain and update the codebase.
+This design process for this modern UI/UX design website was simple and based on the BEM (Block-Element-Modifier) model. This approach allows for a clear separation of concerns between the different components of the website and makes it easy to maintain and update the codebase.
 
 We have also used React efficiently to take advantage of its reusability features. By breaking down the website into small, reusable components, we were able to create a highly modular and maintainable codebase. This not only made the development process more efficient but also made it easier to update and maintain the website in the future.
 
