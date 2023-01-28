@@ -3,6 +3,7 @@
 
 ### **[Live Demo](https://chatgpt3-uiux-design.netlify.app/)**
 
+![image](https://user-images.githubusercontent.com/101736812/214547205-cc7d89ff-cd99-4500-ac49-e394072c2fd7.png)
 
 ### **Project Description:** 
 This modern UI/UX design website is designed to provide users with a seamless and intuitive experience while exploring the latest advancements in technology. With a focus on modern design principles and user-centered approach, we have created a visually stunning website that is easy to navigate and packed with useful information.
@@ -21,9 +22,6 @@ We have also used React efficiently to take advantage of its reusability feature
 
 The BEM model, combined with the efficient use of React, allowed us to create a website that is both visually stunning and easy to navigate. The website's layout is clean and minimalist, with a focus on typography and imagery. Overall, our design process for this modern UI/UX design website was simple and effective, utilizing the BEM model and efficient use of React to create a visually stunning and user-friendly website.
 
-### **Screenshot:**
-
-![image](https://user-images.githubusercontent.com/101736812/214547205-cc7d89ff-cd99-4500-ac49-e394072c2fd7.png)
 
 ### **Deployment:**
 The deployment of this modern UI/UX design website was done with the help of netlify.com. Netlify is a popular platform for deploying web applications and static websites. It provides a simple and efficient way to host, deploy, and manage web projects.
